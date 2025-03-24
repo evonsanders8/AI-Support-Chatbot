@@ -1,0 +1,120 @@
+ticket_id,user,department,issue_type,priority,status,assigned_to,created_at,resolved_at,resolution_time_hours,resolution_description
+TKT001,User1,HR,Login Failure,Medium,Resolved,Tech001,2025-01-21 19:39:00,2025-01-22 17:39:00,22,Reset user credentials and verified account permissions.
+,,,,,,,,,,
+,,,,,,,,,,
+TKT004,User4,HR,Slow Performance,High,Resolved,Tech007,2025-01-13 02:56:00,2025-01-13 15:56:00,13,Reinstalled the application and cleared cache.
+TKT005,User5,Finance,Integration Failure,High,Resolved,Tech005,2025-02-17 16:17:00,2025-02-18 15:17:00,23,Renewed software license and reactivated the key.
+TKT006,User6,Finance,Integration Failure,Critical,Resolved,Tech007,2025-02-23 12:48:00,2025-02-23 17:48:00,5,Optimized application settings and increased resource allocation.
+TKT007,User7,IT,Feature Not Working,High,Resolved,Tech007,2025-02-24 03:10:00,2025-02-26 07:10:00,52,Ran installation with admin rights and resolved dependencies.
+TKT008,User8,Sales,Login Failure,Critical,Resolved,Tech007,2025-02-02 13:45:00,2025-02-04 11:45:00,46,Resynced data with the server and resolved conflicts.
+,,,,,,,,,,
+,,,,,,,,,,
+TKT011,User11,HR,License Expired,Critical,Resolved,Tech004,2025-01-13 12:26:00,2025-01-16 02:26:00,62,Rolled back the update and reported the bug to developers.
+TKT012,User12,Support,Configuration Error,High,Resolved,Tech005,2025-01-20 19:54:00,2025-01-22 12:54:00,41,Reinstalled the application and cleared cache.
+TKT013,User13,Operations,Slow Performance,Low,Resolved,Tech002,2025-02-15 22:52:00,2025-02-16 12:52:00,14,Renewed software license and reactivated the key.
+,,,,,,,,,,
+,,,,,,,,,,
+TKT016,User16,IT,Feature Not Working,Medium,Resolved,Tech002,2025-02-14 20:41:00,2025-02-16 14:41:00,42,Checked API logs and fixed integration settings.
+TKT017,User17,IT,Software Update Issue,Low,Resolved,Tech007,2025-01-17 12:40:00,2025-01-17 22:40:00,10,Debugged feature issue and applied a patch.
+TKT018,User18,Support,License Expired,Medium,Resolved,Tech002,2025-01-03 04:18:00,2025-01-03 20:18:00,16,Reset user credentials and verified account permissions.
+,,,,,,,,,,
+TKT020,User20,HR,License Expired,High,Resolved,Tech005,2025-01-17 07:22:00,2025-01-18 05:22:00,22,Debugged feature issue and applied a patch.
+TKT021,User21,HR,Data Sync Issue,Critical,Resolved,Tech003,2025-01-10 20:15:00,2025-01-11 05:15:00,9,Resynced data with the server and resolved conflicts.
+,,,,,,,,,,
+TKT023,User23,Operations,Integration Failure,Medium,Resolved,Tech007,2025-02-12 00:37:00,2025-02-14 04:37:00,52,Renewed software license and reactivated the key.
+,,,,,,,,,,
+,,,,,,,,,,
+TKT026,User26,HR,Feature Not Working,Low,Resolved,Tech007,2025-01-12 06:27:00,2025-01-13 09:27:00,27,Debugged feature issue and applied a patch.
+,,,,,,,,,,
+TKT028,User28,IT,Installation Failure,Low,Resolved,Tech001,2025-01-04 02:05:00,2025-01-06 08:05:00,54,Rolled back the update and reported the bug to developers.
+TKT029,User29,IT,Installation Failure,Medium,Resolved,Tech006,2025-01-19 05:10:00,2025-01-19 16:10:00,11,Ran installation with admin rights and resolved dependencies.
+,,,,,,,,,,
+TKT031,User31,IT,Software Update Issue,Low,Resolved,Tech004,2025-01-30 08:24:00,2025-02-01 14:24:00,54,Debugged feature issue and applied a patch.
+TKT032,User32,Support,Software Update Issue,Critical,Resolved,Tech002,2025-02-08 11:01:00,2025-02-10 12:01:00,49,Ran installation with admin rights and resolved dependencies.
+TKT033,User33,Marketing,Installation Failure,Critical,Resolved,Tech002,2025-02-20 17:27:00,2025-02-21 13:27:00,20,Optimized application settings and increased resource allocation.
+,,,,,,,,,,
+TKT035,User35,Marketing,Login Failure,High,Resolved,Tech004,2025-02-22 12:54:00,2025-02-23 00:54:00,12,Reinstalled the application and cleared cache.
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+TKT042,User42,IT,Installation Failure,Critical,Resolved,Tech007,2025-02-06 11:40:00,2025-02-09 03:40:00,64,Ran installation with admin rights and resolved dependencies.
+,,,,,,,,,,
+TKT044,User44,Finance,Feature Not Working,High,Resolved,Tech007,2025-02-06 23:02:00,2025-02-09 07:02:00,56,Rolled back the update and reported the bug to developers.
+TKT045,User45,Finance,Integration Failure,Critical,Resolved,Tech004,2025-02-02 13:31:00,2025-02-02 15:31:00,2,Updated configuration files and restarted the service.
+TKT046,User46,Support,Integration Failure,High,Resolved,Tech003,2025-01-26 23:32:00,2025-01-29 00:32:00,49,Updated configuration files and restarted the service.
+TKT047,User47,IT,Slow Performance,High,Resolved,Tech007,2025-02-27 19:49:00,2025-03-02 06:49:00,59,Optimized application settings and increased resource allocation.
+TKT048,User48,HR,Configuration Error,Critical,Resolved,Tech005,2025-02-25 01:31:00,2025-02-25 05:31:00,4,Updated configuration files and restarted the service.
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+TKT052,User52,Marketing,Login Failure,Critical,Resolved,Tech003,2025-01-02 13:37:00,2025-01-05 07:37:00,66,Rolled back the update and reported the bug to developers.
+TKT053,User53,Marketing,License Expired,Low,Resolved,Tech003,2025-01-21 16:24:00,2025-01-22 06:24:00,14,Rolled back the update and reported the bug to developers.
+,,,,,,,,,,
+,,,,,,,,,,
+TKT056,User56,Operations,Feature Not Working,Critical,Resolved,Tech001,2025-02-03 01:51:00,2025-02-05 19:51:00,66,Rolled back the update and reported the bug to developers.
+TKT057,User57,Marketing,Installation Failure,Low,Resolved,Tech004,2025-02-01 15:51:00,2025-02-01 17:51:00,2,Ran installation with admin rights and resolved dependencies.
+TKT058,User58,Finance,Integration Failure,Medium,Resolved,Tech006,2025-02-11 02:40:00,2025-02-13 13:40:00,59,Renewed software license and reactivated the key.
+TKT059,User59,HR,Data Sync Issue,High,Resolved,Tech004,2025-01-19 03:27:00,2025-01-20 12:27:00,33,Rolled back the update and reported the bug to developers.
+TKT060,User60,HR,Configuration Error,Critical,Resolved,Tech007,2025-01-26 04:08:00,2025-01-27 14:08:00,34,Reinstalled the application and cleared cache.
+,,,,,,,,,,
+TKT062,User62,Marketing,Integration Failure,Medium,Resolved,Tech001,2025-01-09 02:34:00,2025-01-09 13:34:00,11,Debugged feature issue and applied a patch.
+,,,,,,,,,,
+TKT064,User64,IT,License Expired,High,Resolved,Tech007,2025-01-07 03:33:00,2025-01-07 08:33:00,5,Updated configuration files and restarted the service.
+,,,,,,,,,,
+TKT066,User66,Support,Configuration Error,Medium,Resolved,Tech007,2025-01-13 13:01:00,2025-01-16 07:01:00,66,Reinstalled the application and cleared cache.
+TKT067,User67,HR,Feature Not Working,Medium,Resolved,Tech003,2025-02-20 17:15:00,2025-02-22 16:15:00,47,Ran installation with admin rights and resolved dependencies.
+TKT068,User68,Support,Login Failure,Critical,Resolved,Tech005,2025-01-24 15:57:00,2025-01-27 14:57:00,71,Optimized application settings and increased resource allocation.
+TKT069,User69,Support,Feature Not Working,Low,Resolved,Tech006,2025-01-21 15:39:00,2025-01-22 06:39:00,15,Updated configuration files and restarted the service.
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+TKT073,User73,Support,Application Crashing,Low,Resolved,Tech002,2025-02-04 04:51:00,2025-02-04 08:51:00,4,Ran installation with admin rights and resolved dependencies.
+,,,,,,,,,,
+TKT075,User75,Sales,Installation Failure,Critical,Resolved,Tech006,2025-02-21 10:11:00,2025-02-21 11:11:00,1,Reinstalled the application and cleared cache.
+TKT076,User76,Sales,Login Failure,Medium,Resolved,Tech003,2025-01-05 13:10:00,2025-01-07 09:10:00,44,Reset user credentials and verified account permissions.
+,,,,,,,,,,
+TKT078,User78,HR,Software Update Issue,Critical,Resolved,Tech003,2025-01-27 18:19:00,2025-01-27 21:19:00,3,Optimized application settings and increased resource allocation.
+TKT079,User79,Support,Login Failure,Critical,Resolved,Tech004,2025-02-20 23:55:00,2025-02-23 02:55:00,51,Reset user credentials and verified account permissions.
+,,,,,,,,,,
+,,,,,,,,,,
+TKT082,User82,Sales,Installation Failure,Low,Resolved,Tech004,2025-01-02 17:17:00,2025-01-03 01:17:00,8,Reinstalled the application and cleared cache.
+,,,,,,,,,,
+TKT084,User84,Sales,Installation Failure,Critical,Resolved,Tech003,2025-01-26 15:32:00,2025-01-27 11:32:00,20,Reinstalled the application and cleared cache.
+,,,,,,,,,,
+,,,,,,,,,,
+TKT087,User87,Sales,License Expired,Low,Resolved,Tech003,2025-01-27 11:15:00,2025-01-29 23:15:00,60,Updated configuration files and restarted the service.
+TKT088,User88,Operations,Data Sync Issue,Low,Resolved,Tech005,2025-02-24 05:46:00,2025-02-25 19:46:00,38,Updated configuration files and restarted the service.
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+TKT092,User92,Marketing,Data Sync Issue,High,Resolved,Tech002,2025-01-09 23:39:00,2025-01-12 05:39:00,54,Optimized application settings and increased resource allocation.
+TKT093,User93,HR,Slow Performance,High,Resolved,Tech006,2025-01-22 07:13:00,2025-01-24 18:13:00,59,Debugged feature issue and applied a patch.
+,,,,,,,,,,
+TKT095,User95,IT,Data Sync Issue,Critical,Resolved,Tech001,2025-02-28 18:45:00,2025-03-03 10:45:00,64,Debugged feature issue and applied a patch.
+,,,,,,,,,,
+TKT097,User97,HR,Feature Not Working,High,Resolved,Tech005,2025-01-24 21:30:00,2025-01-26 03:30:00,30,Updated configuration files and restarted the service.
+TKT098,User98,Marketing,License Expired,Critical,Resolved,Tech005,2025-02-08 05:54:00,2025-02-10 05:54:00,48,Updated configuration files and restarted the service.
+,,,,,,,,,,
+TKT100,User100,Support,Slow Performance,Critical,Resolved,Tech001,2025-01-06 02:14:00,2025-01-06 15:14:00,13,Renewed software license and reactivated the key.
+,,,,,,,,,,
+TKT102,User102,Finance,Slow Performance,Medium,Resolved,Tech001,2025-02-15 10:24:00,2025-02-15 12:24:00,2,Reinstalled the application and cleared cache.
+,,,,,,,,,,
+TKT104,User104,Sales,Software Update Issue,Low,Resolved,Tech006,2025-01-21 23:56:00,2025-01-24 09:56:00,58,Ran installation with admin rights and resolved dependencies.
+TKT105,User105,Operations,Login Failure,Critical,Resolved,Tech007,2025-01-17 06:34:00,2025-01-19 06:34:00,48,Debugged feature issue and applied a patch.
+TKT106,User106,Sales,Data Sync Issue,High,Resolved,Tech001,2025-01-02 22:41:00,2025-01-03 01:41:00,3,Updated configuration files and restarted the service.
+TKT107,User107,Marketing,Installation Failure,Critical,Resolved,Tech004,2025-02-25 01:03:00,2025-02-27 12:03:00,59,Reinstalled the application and cleared cache.
+TKT108,User108,Support,Login Failure,High,Resolved,Tech005,2025-01-04 07:09:00,2025-01-06 07:09:00,48,Renewed software license and reactivated the key.
+,,,,,,,,,,
+TKT110,User110,Marketing,License Expired,Medium,Resolved,Tech002,2025-01-03 05:22:00,2025-01-03 17:22:00,12,Resynced data with the server and resolved conflicts.
+TKT111,User111,Marketing,Configuration Error,Critical,Resolved,Tech006,2025-01-04 07:31:00,2025-01-05 12:31:00,29,Renewed software license and reactivated the key.
+TKT112,User112,Finance,Configuration Error,High,Resolved,Tech001,2025-01-13 16:38:00,2025-01-13 20:38:00,4,Checked API logs and fixed integration settings.
+TKT113,User113,IT,License Expired,Medium,Resolved,Tech006,2025-02-11 08:11:00,2025-02-13 03:11:00,43,Checked API logs and fixed integration settings.
+,,,,,,,,,,
+,,,,,,,,,,
+TKT116,User116,HR,Software Update Issue,Critical,Resolved,Tech001,2025-01-31 17:49:00,2025-02-01 02:49:00,9,Debugged feature issue and applied a patch.
+TKT117,User117,Support,Software Update Issue,Low,Resolved,Tech003,2025-01-13 19:38:00,2025-01-15 09:38:00,38,Rolled back the update and reported the bug to developers.
+TKT118,User118,HR,Installation Failure,High,Resolved,Tech004,2025-01-20 04:34:00,2025-01-21 06:34:00,26,Rolled back the update and reported the bug to developers.
+TKT119,User119,Marketing,Feature Not Working,Critical,Resolved,Tech006,2025-02-05 19:14:00,2025-02-07 19:14:00,48,Renewed software license and reactivated the key.

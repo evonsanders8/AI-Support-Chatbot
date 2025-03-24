@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+package helpdesk;
+
+service HelpDeskBot {
+  rpc GetResponse (UserMessage) returns (BotReply);
+  rpc LogTicket (TicketRequest) returns (TicketResponse);
+}
+
+message UserMessage {
+  string user_id = 1;
+  string message = 2;
+}
+
+message BotReply {
+  string response = 1;
+}
+
+message TicketRequest {
+  string user_id = 1;
+  string issue_description = 2;
+}
+
+message TicketResponse {
+  string ticket_id = 1;
+  string status = 2;
+}
